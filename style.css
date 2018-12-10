@@ -1,0 +1,26 @@
+
+body {background-color: #a1e5cf}
+
+h1 {background-color: #babc01}
+h1 {color: #e8f600;}
+
+h2
+{color: #fdff39;
+}
+h4 { color: #ff6831;
+}
+footer {background-color: #047276;}
+footer {color: #82feff;}
+
+img {
+   padding:4px;
+   border:3px solid #f82259;
+   background-color:#ed5f00;
+}
+
+h4 {
+  font-family: 'Roboto';
+  font-style: bold;
+  font-weight: 1200;
+  src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1Mu51xFIzIXKMnyrYk.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
